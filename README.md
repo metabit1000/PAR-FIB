@@ -1,5 +1,5 @@
 # PAR-FIB
-Sesiones de laboratorio en inglés de la asignatura Paralelismo de la FIB, UPC. Cuatrimestre de otoño 2019-2020 
+Sesiones de laboratorio en inglés de la asignatura Paralelismo (PAR) de la FIB, UPC. Cuatrimestre de otoño 2019-2020 
 
 Notas:
 * Lab1 = **1.5**
